@@ -1,0 +1,99 @@
+.vij{
+    background-color: brown;
+    height: 700px;
+    width: 650px;
+    position: absolute;
+    border-radius: 20px;
+    left: 500px;
+    top: 20px;
+}
+.a{
+    height: 50px;
+    border-bottom: 4px solid white;
+}
+.vijay{
+    background-color: yellow;
+    height: 600px;
+    width: 100%;
+    border-bottom: 4px solid white;
+}
+div{
+    display: block;
+}
+.one{
+    background-image: url(image/WhatsApp\ Image\ 2022-11-19\ at\ 8.17.33\ PM.jpeg);
+    height: 175px;
+    width: 175px;
+    top: 25px;
+    left: 10px;
+    background-size: 200px 175px;
+    position: relative;
+    float: left;
+}
+.two{
+    background-image: url(image/WhatsApp\ Image\ 2022-11-19\ at\ 8.17.33\ PM\ \(1\).jpeg);
+    height: 175px;
+    width: 175px;
+    top: 25px;
+    left: 20px;
+    background-size: 200px 175px;
+    background-repeat: no-repeat;
+    position: relative;
+    float: left;
+}
+.three{
+    background-image: url(image/WhatsApp\ Image\ 2022-11-19\ at\ 8.17.34\ PM\ \(1\).jpeg);
+    height: 550px;
+    width: 261px;
+    top: 25px;
+    right: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    position: relative;
+    float: right;
+}
+.four{
+    background-image: url(image/WhatsApp\ Image\ 2022-11-19\ at\ 8.17.34\ PM.jpeg);
+    height: 175px;
+    width: 175px;
+    top: 35px;
+    left: 10px;
+    background-size: 200px 175px;
+    background-repeat: no-repeat;
+    position: relative;
+    float: left;
+}
+.five{
+    background-image: url(image/WhatsApp\ Image\ 2022-11-19\ at\ 8.17.33\ PM\ \(2\).jpeg);
+    height: 175px;
+    width: 175px;
+    top: 35px;
+    left: 20px;
+    background-size: 200px 175px;
+    background-repeat: no-repeat;
+    position: relative;
+    float: left;
+}
+.six{
+    background-image: url(image/WhatsApp\ Image\ 2022-11-19\ at\ 8.17.34\ PM\ \(2\).jpeg);
+    height: 175px;
+    width: 175px;
+    top: 45px;
+    left: 10px;
+    background-size: 200px 175px;
+    background-repeat: no-repeat;
+    position: relative;
+    float: left;
+}
+.seven{
+    background-image: url(image/WhatsApp\ Image\ 2022-11-19\ at\ 8.17.35\ PM.jpeg);
+    height: 175px;
+    width: 175px;
+    top: 45px;
+    left: 20px;
+    background-size: 200px 175px;
+    background-repeat: no-repeat;
+    position: relative;
+    float: left;
+}
